@@ -19,6 +19,9 @@
 	background-color: blue;
 }
 
+.table {
+	width: 100%;
+}
 .table th {
 	background-color: gray;
 }
