@@ -1,0 +1,24 @@
+.border1 {
+	border: 5px solid black;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.border2 {
+	border: 5px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+
+.border1.red {
+	background-color: red;
+}
+
+.border1.blue {
+	background-color: blue;
+}
+
+.table th {
+	background-color: gray;
+}
