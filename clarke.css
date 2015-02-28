@@ -19,9 +19,13 @@
 	background-color: blue;
 }
 
-.table {
+.table-container {
+	margin: 10px;
+}
+
+.table-container table {
 	width: 100%;
 }
-.table th {
+.table-container table th {
 	background-color: gray;
 }
